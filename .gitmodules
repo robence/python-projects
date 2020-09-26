@@ -1,3 +1,9 @@
 [submodule "borze-notify"]
 	path = borze-notify
 	url = git@github.com:robence/borze-notify.git
+[submodule "RSS-Scrape"]
+	path = RSS-Scrape
+	url = git@github.com:robence/RSS-Scrape.git
+[submodule "rss-scrape"]
+	path = rss-scrape
+	url = git@github.com:robence/rss-scrape.git
