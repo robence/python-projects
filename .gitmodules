@@ -7,9 +7,6 @@
 [submodule "rss-scrape"]
 	path = rss-scrape
 	url = git@github.com:robence/rss-scrape.git
-[submodule "test-plight"]
-	path = test-plight
-	url = git@github.com:robence/test-plight
 [submodule "cafe-vian"]
 	path = cafe-vian
 	url = git@github.com:robence/cafe-vian
