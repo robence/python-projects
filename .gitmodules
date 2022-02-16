@@ -10,3 +10,6 @@
 [submodule "cafe-vian"]
 	path = cafe-vian
 	url = git@github.com:robence/cafe-vian
+[submodule "python_coffee_machine"]
+	path = python_coffee_machine
+	url = https://github.com/robence/python_coffee_machine
